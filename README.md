@@ -2,7 +2,12 @@
 ScrapSAMA is a webscrapper use to watch animesama video in your vscode terminal
 
 system package:
+##ubuntu linux##
 # sudo apt update && sudo apt install python3 python3-pip mpv yt-dlp
+
+##arch-linux##
+sudo pacman -S python mpv yt-dlp
+
 
 python dependence :
 # pip install requests beautifulsoup4
