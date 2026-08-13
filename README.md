@@ -6,3 +6,9 @@ system package:
 
 python dependence :
 # pip install requests beautifulsoup4
+
+
+
+
+NB:this scrapper is only available on Linux distributions
+A windows version is in developement thanks(^_^).
